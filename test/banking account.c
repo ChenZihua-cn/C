@@ -1,3 +1,5 @@
+// a simple banking account program in C
+
 #include <stdio.h>
 
 int main() {
