@@ -6,14 +6,19 @@
 int main(void){
 
 	int number;
+	int limit;
 	int i; 
 	int flag; // defalt to true?
-	
+	printf("please key in the ranging number from 1 you want to search prime numer.\n");
+	scanf(" %d",&limit);
 	int count = 0;
 	// obviously, 0 and 1 is not the prime number.
-	number = 2;
-	
-	while ( number<100){
+	if (limit < 2){
+		printf("\nThe range is invalid!!!\n");
+		}else{
+			number = 2;
+		while ( number<limit){
+		
 		i = 2;
 		flag = 1;
 		while ( i<= number-1){
@@ -28,6 +33,7 @@ int main(void){
 		} number++;
 	}
 	printf("After counting, total number of the prime number is %d",count);
+	}
 	
 	return 0;
 }
