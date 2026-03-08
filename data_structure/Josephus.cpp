@@ -13,11 +13,11 @@ int Josephus(int n, int m) {
 int main() {
     int n, m;
     
-    cout << "请输入两个数字，用空格分隔：";
+    cout << "请输入两个数字，用空格分隔：" << endl;
     while (!(cin >> n >> m)) {
         cin.clear(); // 清除错误状态
         cin.ignore(numeric_limits<streamsize>::max(), '\n'); // 忽略掉当前行中所有的字符
-        cout << "输入错误，请输入两个整数：";
+        cout << "输入错误，请输入两个整数：" << endl;
     }
     
     int result = Josephus(n, m);
