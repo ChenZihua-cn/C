@@ -1,0 +1,6 @@
+# 忽略所有exe文件
+*.exe
+
+# 忽略.vscode文件夹
+.vscode/
+data_structure/.vscode/
