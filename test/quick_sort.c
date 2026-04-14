@@ -10,7 +10,7 @@ typedef struct{
 // How can I print the `typedef` struction into the screen?
 
 StackItem stack[100];
-// What this block means?
+// What do this code block means?
 // The StackItem include two int,
 // but you define a array?
  
