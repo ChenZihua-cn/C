@@ -2,6 +2,7 @@
 *.exe
 *.out
 
+**/target/
 
 # 忽略.vscode文件夹
 .vscode/
