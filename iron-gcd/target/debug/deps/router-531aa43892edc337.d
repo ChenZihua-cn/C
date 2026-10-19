@@ -1,0 +1,10 @@
+/data/data/com.termux/files/home/code/C/iron-gcd/target/debug/deps/router-531aa43892edc337.d: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/router-0.5.1/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/router-0.5.1/src/router.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/router-0.5.1/src/macros.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/router-0.5.1/src/url_for.rs
+
+/data/data/com.termux/files/home/code/C/iron-gcd/target/debug/deps/librouter-531aa43892edc337.rlib: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/router-0.5.1/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/router-0.5.1/src/router.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/router-0.5.1/src/macros.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/router-0.5.1/src/url_for.rs
+
+/data/data/com.termux/files/home/code/C/iron-gcd/target/debug/deps/librouter-531aa43892edc337.rmeta: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/router-0.5.1/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/router-0.5.1/src/router.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/router-0.5.1/src/macros.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/router-0.5.1/src/url_for.rs
+
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/router-0.5.1/src/lib.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/router-0.5.1/src/router.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/router-0.5.1/src/macros.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/router-0.5.1/src/url_for.rs:
